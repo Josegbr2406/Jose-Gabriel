@@ -1,3 +1,4 @@
 # Jose-Gabriel
--💡Iniciando em segurança da informação 
-- 💻 Ciência de dados 
+-💡Estudando segurança da informação 
+- 💻 Ciência de dados
+- 📈 Aprimorando Linguagens: Python, Java 
