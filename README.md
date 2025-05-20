@@ -1,7 +1,11 @@
 # Olá, sou Jose-Gabriel
--💡Estudando segurança da informação 
+-💡Terminando minha graduação em segurança da informação 
+    ● Me especializado em:
 - 💻 Ciência de dados
 - 📈 Aprimorando Linguagens: Python, Java
+- 🧠 Inteligência Artificial (IA)
+    ● 🔩 Atuando em infraestrutura 
+    ● 📌 Atuando como professor de Tecnologia da informação 
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
