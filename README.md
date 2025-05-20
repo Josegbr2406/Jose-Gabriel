@@ -2,6 +2,7 @@
 -💡Terminando minha graduação em segurança da informação 
 
     ● Me especializado em:
+
 - 💻 Ciência de dados
 - 📈 Aprimorando Linguagens: Python, Java
 - 🧠 Inteligência Artificial (IA)
