@@ -4,6 +4,7 @@
 - 💻 Ciência de dados
 - 📈 Aprimorando Linguagens: Python, Java
 - 🧠 Inteligência Artificial (IA)
+
     ● 🔩 Atuando em infraestrutura 
     ● 📌 Atuando como professor de Tecnologia da informação 
 
