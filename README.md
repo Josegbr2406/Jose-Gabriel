@@ -1,11 +1,13 @@
 # Olá, sou Jose-Gabriel
 -💡Terminando minha graduação em segurança da informação 
+
     ● Me especializado em:
 - 💻 Ciência de dados
 - 📈 Aprimorando Linguagens: Python, Java
 - 🧠 Inteligência Artificial (IA)
 
     ● 🔩 Atuando em infraestrutura 
+
     ● 📌 Atuando como professor de Tecnologia da informação 
 
   <div style="display: inline_block"><br>
